@@ -29,7 +29,7 @@ pip install selenium
 Run the script by executing the following command:
 
 
-```python url_screenshot_capture.py path/to/url\_file.txt```
+```python url_screenshot_capture.py path/to/url_file.txt```
 
 ## Output
 
