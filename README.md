@@ -35,6 +35,8 @@ Run the script by executing the following command:
 
 Screenshots will be saved in the screenshot\_captured folder, and an HTML file (screenshots.html) will be generated with links to the captured screenshots.
 
+![Example HTML](http://i.imgur.com/DfS85YUh.gif)
+
 ## Note
 
 Adjust the script according to your needs. Feel free to modify the script parameters such as window\_size, timeout, etc.
